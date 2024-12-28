@@ -4,7 +4,7 @@
 npm create tamagui
 ```
 
-## 🔦 About
+## 🔦 About!
 
 This monorepo is a starter for an Expo + Next.js + Tamagui + Solito app.
 
@@ -18,7 +18,7 @@ Many thanks to [@FernandoTheRojo](https://twitter.com/fernandotherojo) for the S
 - Next.js
 - Expo Router
 
-## 🗂 Folder layout
+## 🗂 Folder layout 
 
 The main apps are:
 
